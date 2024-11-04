@@ -1,4 +1,4 @@
-[# ZielonaKalkulacja - Projekt HackHeroes]
+[# ZielonaKalkulacja - Projekt HackHeroes ]
 
 ( https://zielonakalkulacja.pl/ )
 
