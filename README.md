@@ -44,9 +44,9 @@ Strona umożliwiająca kontakt mailowy poprzez stronę.
 
 ---
 
- ## 🌱 Dodatkowy Projekt: [Zielona Kalkulacja]
+ # 🌱 Dodatkowy Projekt: [Zielona Kalkulacja]
 
- # | 📅 **Data**: [06.11.2024] |
+ ## | 📅 **Data**: [06.11.2024] |
 
  🔥 **Opis Aplikacji**
 
