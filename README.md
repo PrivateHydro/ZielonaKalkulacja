@@ -44,12 +44,11 @@ Strona umożliwiająca kontakt mailowy poprzez stronę.
 
 ---
 
- # 🌱 Dodatkowy Projekt: [Zielona Kalkulacja]
+ # 🌱 Kalkulator Oszczędności Energii: [Zielona Kalkulacja]
 
- ## | 📅 **Data**: [06.11.2024] |
+ ## 🔥 **Opis Aplikacji**
 
- 🔥 **Opis Aplikacji**
-
+### | 📅 **Data**: [06.11.2024] |
 
 🛠️ - Aktualnie pracuje nad Kalkulatorem oszczędności energii dynamicznej. 
 
