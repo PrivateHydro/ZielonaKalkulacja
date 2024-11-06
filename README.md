@@ -56,7 +56,10 @@ Strona umożliwiająca kontakt mailowy poprzez stronę.
 
 
 Jest to złożona aplikacja łącząca sie z api do instratu
+
  [ organizacji która udostępnia ]
+
+ 
 Ceny energii elektrycznej na poszczególne godziny kolejnej doby (RDN)  
 
 Aplikacja ma za zadanie poprzez api przekonwertować dane, zmienić je w wykres a następnie ukazać jakie ceny dynamiczne panują w danym dniu oraz godzinie, następnie zamienia na wykresie ,,słupki'' na informacyjne
