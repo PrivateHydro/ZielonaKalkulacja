@@ -67,6 +67,7 @@ Aplikacja ma za zadanie poprzez api przekonwertować dane, zmienić je w wykres 
 
 
 Następnie oblicza ilość godzin żółtych a także czerwonych i kalkuluje średnie zużycie prądu w domu na podstawie 
+
 [ pralki, suszarki, telewizji, zmywarki ] 
 - podaje średnią cene w danych żółtych oraz czerwonych godzinach [ PLN / MWh ] 
 - podaje średnią wartość energii zużytej w żółtych oraz czerwonych godzinach [ MWh ] 
