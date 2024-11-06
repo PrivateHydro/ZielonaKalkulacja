@@ -62,10 +62,10 @@ Ceny energii elektrycznej na poszczególne godziny kolejnej doby (RDN)
 
 Aplikacja ma za zadanie poprzez api przekonwertować dane, zmienić je w wykres a następnie ukazać jakie ceny dynamiczne panują w danym dniu oraz godzinie, następnie zamienia na wykresie ,,słupki'' na informacyjne
 
-**24 sierpnia muszą mieć w swojej ofercie tzw. taryfy dynamiczne dla odbiorców indywidualnych, czyli gospodarstw domowych. Obowiązek ten nałożyła ubiegłoroczna nowelizacja prawa energetycznego**
+**dostawcy energii elektrycznej od 24 sierpnia muszą mieć w swojej ofercie tzw. taryfy dynamiczne dla odbiorców indywidualnych, czyli gospodarstw domowych. Obowiązek ten nałożyła ubiegłoroczna nowelizacja prawa energetycznego**
 
 
-👁‍🗨Wykorzystałem tę zmianę, aby pomóc gospodarstwom domowym lepiej zarządzać swoimi rachunkami za energię ponieważ różnica jest kolosalna, między godzinami np. 9;00 - 14;00 A 15;00 - 20;00 jest **400%** różnicy w cenie energii 
+**👁‍🗨**Wykorzystałem tę zmianę, aby pomóc gospodarstwom domowym lepiej zarządzać swoimi rachunkami za energię ponieważ różnica jest kolosalna, między godzinami np. 9;00 - 14;00 A 15;00 - 20;00 jest **400%** różnicy w cenie energii 
 
 🟢 Zielony - Korzystaj swobodnie z energii w domu
 
