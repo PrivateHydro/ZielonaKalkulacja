@@ -42,3 +42,38 @@ Strona umożliwiająca kontakt mailowy poprzez stronę.
 
 
 
+
+ 🌱 Dodatkowy Projekt: [Zielona Kalkulacja]
+
+ | 📅 **Data**: [06.11.2024] |
+
+---
+
+## 🔥 **Opis Aplikacji**
+
+🛠️ - Aktualnie pracuje nad Kalkulatorem oszczędności energii dynamicznej. 
+
+Jest to złożona aplikacja łącząca sie z api do instratu [ organizacji która udostępnia * Ceny energii elektrycznej na poszczególne godziny kolejnej doby (RDN) * ] 
+Aplikacja ma za zadanie poprzez api przekonwertować dane, zmienić je w wykres a następnie ukazać jakie ceny dynamiczne panują w danym dniu oraz godzinie, następnie zamienia na wykresie ,,słupki'' na informacyjne
+🟢 Zielony - Korzystaj swobodnie z energii w domu
+🟡 Żółty - Oszczędzaj energie w domu
+🔴 Czerwony - Ogranicz używanie do minimum
+
+Następnie oblicza ilość godzin żółtych a także czerwonych i kalkuluje średnie zużycie prądu w domu na podstawie [ pralki, suszarki, telewizji, zmywarki ] 
+- podaje średnią cene w danych żółtych oraz czerwonych godzinach [ PLN / MWh ] 
+- podaje średnią wartość energii zużytej w żółtych oraz czerwonych godzinach [ MWh ] 
+- Spodaje średnią wartość zaoszczędzonych pieniędzy jeśli ograniczy się używanie prądu w danych godzinach [ PLN ] 
+
+
+![image](https://github.com/user-attachments/assets/fd80d4f2-4df1-4dff-8b62-5f99b749c34f)
+
+---
+
+
+## 📝 **Aktualizacje**
+
+
+
+
+
+
