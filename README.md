@@ -51,13 +51,20 @@ Strona umożliwiająca kontakt mailowy poprzez stronę.
 
 ## 🔥 **Opis Aplikacji**
 
+
 🛠️ - Aktualnie pracuje nad Kalkulatorem oszczędności energii dynamicznej. 
 
+
 Jest to złożona aplikacja łącząca sie z api do instratu [ organizacji która udostępnia * Ceny energii elektrycznej na poszczególne godziny kolejnej doby (RDN) * ] 
+
 Aplikacja ma za zadanie poprzez api przekonwertować dane, zmienić je w wykres a następnie ukazać jakie ceny dynamiczne panują w danym dniu oraz godzinie, następnie zamienia na wykresie ,,słupki'' na informacyjne
+
 🟢 Zielony - Korzystaj swobodnie z energii w domu
+
 🟡 Żółty - Oszczędzaj energie w domu
+
 🔴 Czerwony - Ogranicz używanie do minimum
+
 
 Następnie oblicza ilość godzin żółtych a także czerwonych i kalkuluje średnie zużycie prądu w domu na podstawie [ pralki, suszarki, telewizji, zmywarki ] 
 - podaje średnią cene w danych żółtych oraz czerwonych godzinach [ PLN / MWh ] 
