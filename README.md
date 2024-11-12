@@ -88,6 +88,8 @@ Następnie oblicza ilość godzin żółtych a także czerwonych i kalkuluje śr
 ## 📝 **Aktualizacje**
 
 
+12.11.2024 Dodałem Aplikacje.html / Poprawki aplikacji desktopowej + pełna dokumentacja projektu // dodam pozniej 
+
 
 
 
