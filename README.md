@@ -39,6 +39,9 @@ Strona na której opisuję historie powstania projektu, a także poszczególnych
 
 Strona umożliwiająca kontakt mailowy poprzez stronę. 
 
+| Aplikacja | 
+
+Strona na której opisuję działanie oraz funkcje aplikacji desktopowej. Również link do pobrania aplikacji. 
 
 
 
@@ -53,7 +56,9 @@ Strona umożliwiająca kontakt mailowy poprzez stronę.
 🛠️ - Aktualnie pracuje nad Kalkulatorem oszczędności energii dynamicznej. 
 
 
-Jest to złożona aplikacja łącząca sie z api do instratu
+To narzędzie, które wspiera gospodarstwa domowe w świadomym zarządzaniu zużyciem energii elektrycznej, wykorzystując dynamiczne taryfy cenowe od dostawców energii. 
+Dzięki tej aplikacji użytkownicy mogą precyzyjnie monitorować i planować zużycie prądu w ciągu dnia, co pozwala na znaczące oszczędności w rachunkach za energię.
+
 
   organizacji która udostępnia -
 Ceny energii elektrycznej na poszczególne godziny kolejnej doby (RDN)  
@@ -67,7 +72,7 @@ Aplikacja ma za zadanie poprzez api przekonwertować dane, zmienić je w wykres 
 
 🟢 Zielony - Korzystaj swobodnie z energii w domu
 
-🟡 Żółty - Oszczędzaj energie w domu
+🟠 Pomarańczowy - Ogranicz używanie energii
 
 🔴 Czerwony - Ogranicz używanie do minimum
 
@@ -78,9 +83,19 @@ Następnie oblicza ilość godzin żółtych a także czerwonych i kalkuluje śr
 - podaje średnią cene w danych żółtych oraz czerwonych godzinach [ PLN / MWh ] 
 - podaje średnią wartość energii zużytej w żółtych oraz czerwonych godzinach [ MWh ] 
 - Spodaje średnią wartość zaoszczędzonych pieniędzy jeśli ograniczy się używanie prądu w danych godzinach [ PLN ] 
+- podaje średnią wartość zaoszczędzonego CO2 jeśli ograniczy się używanie energii w szczytowych momentach [KG] w podziale na godziny pomarańczowe/czerwone
 
 
-![image](https://github.com/user-attachments/assets/fd80d4f2-4df1-4dff-8b62-5f99b749c34f)
+![aplikacja](https://github.com/user-attachments/assets/f8126ce6-2eb0-49a7-9452-06ebcd92a595)
+
+![oszczednosci1](https://github.com/user-attachments/assets/5e4eab69-70fb-4832-9a02-0c9890256559)
+
+
+**Dodatkowe info**
+
+Aplikacja wykrywa czy dane na dzień następny są dostępne, jeśli nie - wypisuję datę na środku dnia dzisiejszego oraz oszczędności są obliczane na dzień dzisiejszy, jeśli dane będą dostępne, wypisze dziś po lewej stronie [ do wykresu dzisiejszego ] 
+a po prawej wypisze jutro z datą jutrzejszą, również oszczędności zostaną obliczone na dzień jutrzejszy.
+
 
 ---
 
@@ -88,7 +103,9 @@ Następnie oblicza ilość godzin żółtych a także czerwonych i kalkuluje śr
 ## 📝 **Aktualizacje**
 
 
-12.11.2024 Dodałem Aplikacje.html / Poprawki aplikacji desktopowej + pełna dokumentacja projektu // dodam pozniej 
+12.11.2024 Dodałem Aplikacje.html / Poprawki aplikacji desktopowej
+
+14.11.2024 Aktualizacja opisu projektu
 
 
 
